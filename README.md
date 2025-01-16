@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🌟 자기소개 페이지
 
-<!--
-**jhpps1/jhpps1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📌 기본 정보
+- **이름**: [박준형]
+- **거주지**: [현재 구미]
+- **연락처**: [010-1234-5678]
+- **이메일**: [jhpps@naver.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 관심사 및 취미
+- **취미**: [여행, 음악 감상, 게임]
+- **관심사**: [AI, 스타트업, 앱]
+
+---
+
+## 🎓 학력
+- **대학교**: [경북대학교 중어중문학과] (2017.3 - 2025.2)
+- **고등학교**: [대구 성광고등학교] (2013.3 - 2016.2)
+
+---
+
+## 🎯 2025 목표와 포부
+- [단기 목표]: [ 매일 공부하고 SSAFY 열심히 임하기]
+- [장기 목표]: [ "좋은" 개발자로 성장하기]
+- [개인적인 목표]: [24년보다 건강해지기]
+
+---
