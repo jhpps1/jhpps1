@@ -31,6 +31,8 @@
 <h5>Data · Infra</h5>
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
+  <img alt="TimescaleDB" src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=white" />&nbsp;&nbsp;
+  <img alt="pgvector" src="https://img.shields.io/badge/pgvector-6933FF?style=for-the-badge" />&nbsp;&nbsp;
   <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;
